@@ -1,0 +1,16 @@
+.card {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	width: 25rem;
+	height: auto;
+}
+
+.image {
+	width: 10rem;
+	height: 10rem;
+	padding: 2rem;
+}
+.info {
+	font-size: 1rem;
+}
